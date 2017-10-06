@@ -15,6 +15,8 @@ private String apellido;
     }
         public class nombre{
     
-  }
- 
+        }
+        public class apellido{
+    
+        }
 }
