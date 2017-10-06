@@ -22,4 +22,10 @@ private String apellido;
         public class segapellido{
     
         }
+        
+        public class fantasma{
+    
+          
+            
+        }
 }
