@@ -19,4 +19,7 @@ private String apellido;
         public class apellido{
     
         }
+        public class segapellido{
+    
+        }
 }
