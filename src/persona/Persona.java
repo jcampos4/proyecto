@@ -31,4 +31,15 @@ public class Persona {
     public void fantasma(boolean valorcasado){
     casado = valorcasado;
     }
+    public String getnombre (){ 
+      return nombre; } //Cierre del método
+    //Método para obtener los apellidos del objeto persona
+    public String getapellidos () { 
+      return apellidos; } //Cierre del método
+    //Método para obtener la edad del objeto persona
+    public int getedad () { 
+      return edad; } //Cierre del método
+    //Método para obtener si el  objeto persona está casado
+    public boolean getcasado () { 
+      return casado; } //Cierre del método
 }
