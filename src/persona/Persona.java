@@ -13,5 +13,8 @@ private String apellido;
         this.nombre = persona.nombre;
          this.nombre = persona.apellido;
     }
+        public class nombre{
     
+  }
+ 
 }
