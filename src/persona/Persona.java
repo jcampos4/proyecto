@@ -28,7 +28,7 @@ public class Persona {
     public void setEdad(int valoredad){
         edad = valoredad;
     }
-    public void fantasma(){
-    
+    public void fantasma(boolean valorcasado){
+    casado = valorcasado;
     }
 }
